@@ -7,6 +7,7 @@
     "front-matter": "^0.2.0",
     "fs-then": "^0.2.0",
     "json-front-matter": "^0.1.6",
-    "when": "^3.4.5"
+    "when": "^3.4.5",
+	"gm": "*"
   }
 }
