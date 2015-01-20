@@ -1,14 +1,15 @@
 {
   "name": "wallery",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/wallery",
   "private": true,
   "dependencies": {
     "front-matter": "^0.2.0",
     "fs-then": "^0.2.0",
+    "gm": "*",
     "json-front-matter": "^0.1.6",
-    "when": "^3.4.5",
-	"gm": "*",
-	"tinycolor2": "*"
+    "marked": "^0.3.2",
+    "tinycolor2": "*",
+    "when": "^3.4.5"
   }
 }
